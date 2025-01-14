@@ -10,7 +10,7 @@ I am a passionate software developer with a keen interest in open-source project
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with machine learning projects.
 - 💬 Ask me about JavaScript, Python, and web development.
-- 📫 How to reach me: [tylermccarthy@example.com](mailto:tylermccarthy@example.com)
+- 📫 How to reach me: [tyler@bidscript.co.uk](mailto:tylermccarthy@bidscript.co.uk)
 
 ## 🔧 Technologies & Tools
 
