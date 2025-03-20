@@ -25,15 +25,15 @@ I am a passionate software developer with a keen interest in open-source project
 
 ## 📊 GitHub Stats
 
-![TylerMcCarthyGitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerMcCarthyGitHub&show_icons=true&theme=radical)
+![TylerMcCarthyGitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-mccarthy&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![TylerMcCarthyGitHub's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TylerMcCarthyGitHub&theme=dracula&column=7)
+![TylerMcCarthyGitHub's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tyler-mccarthy&theme=dracula&column=7)
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerMcCarthyGitHub&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler-mccarthy&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
@@ -41,9 +41,9 @@ I am a passionate software developer with a keen interest in open-source project
 [![Twitter](https://img.shields.io/badge/Twitter-@TylerMcCarthyGitHub-1DA1F2?logo=twitter)](https://twitter.com/TylerMcCarthyGitHub)
 
 <!-- GitHub Activity Graph -->
-[![TylerMcCarthyGitHub's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TylerMcCarthyGitHub&theme=dracula)](https://github.com/TylerMcCarthyGitHub)
+[![TylerMcCarthyGitHub's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TylerMcCarthyGitHub&theme=dracula)](https://github.com/tyler-mccarthy)
 
 <!-- Visitor Badge -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TylerMcCarthyGitHub.TylerMcCarthyGitHub)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tyler-mccarthy.tyler-mccarthy)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects or just chat about technology. 😊
